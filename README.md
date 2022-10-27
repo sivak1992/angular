@@ -1,2 +1,2 @@
 # angular
-angularProject i will create angular project
+angularProject i will create my first angular project
